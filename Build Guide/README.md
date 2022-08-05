@@ -15,3 +15,6 @@
 [Bottle cutter assembly video (Needs update)](https://www.youtube.com/watch?v=mIvZ6ZM0HBI)
 
 
+Andromeda updates needs new assembly videos which is still in the works.
+
+Please refer to the Assembly Guides made by @lhong820#0249 for assembly.
